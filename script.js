@@ -31,3 +31,16 @@ const marvelQuiz = [
         correctAnswer: "c"
     }
 ]
+
+runQuiz(marvelQuiz, quiz, submitContainer, result);
+
+function runQuiz(question, quizContainer, resultContainer, submitButton){
+    
+    function showQuestions(question, quiz){
+
+        const output = [];
+        const answers;
+
+    }
+}
+]
