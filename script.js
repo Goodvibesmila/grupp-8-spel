@@ -43,3 +43,4 @@ function runQuiz(question, quizContainer, resultContainer, submitButton){
 
     }
 }
+]
