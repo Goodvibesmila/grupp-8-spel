@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+body {
+    margin: 20rem 10%;
+    background-color: red;
+    color: white;
+    font-family: garamond;
+    max-height: 100%;
+    padding: 20rem 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quiz {
+    background-color: red;
+}
+
+button {
+    background-color: white;
+    padding: 2rem;
+}
